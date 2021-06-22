@@ -1,0 +1,30 @@
+*{
+    font-family: sans-serif;
+}
+
+  #search{
+    height: 25px;
+    width: 150px;
+    background-color: whitesmoke;
+    border: 2px solid springgreen;
+    border-radius: 15px;
+
+  }
+  #plus{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    font-size: x-large;
+    color: white;
+    background-color: springgreen;
+    border: solid springgreen;
+  }
+  #create{
+    box-shadow: 10px 5px 5px black;
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: skyblue;
+  }
+  
+  
